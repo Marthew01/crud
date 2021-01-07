@@ -1,0 +1,9 @@
+2020-10-14 19:58:43.165 [ main ] - [ INFO  ] [ c.atsuwell.springbootweb.SpringbootwebApplication : 55 ] - Starting SpringbootwebApplication on DESKTOP-SN1PUK3 with PID 7156 (F:\project\springbootweb\target\classes started by zhang-rongyao in F:\project\springbootweb)
+2020-10-14 19:58:43.167 [ main ] - [ DEBUG ] [ c.atsuwell.springbootweb.SpringbootwebApplication : 56 ] - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-14 19:58:43.167 [ main ] - [ INFO  ] [ c.atsuwell.springbootweb.SpringbootwebApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-10-14 19:58:43.704 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-10-14 19:58:43.704 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-10-14 19:58:43.705 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-10-14 19:58:43.748 [ main ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-10-14 19:58:43.948 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-10-14 19:58:43.975 [ main ] - [ INFO  ] [ c.atsuwell.springbootweb.SpringbootwebApplication : 61 ] - Started SpringbootwebApplication in 1.058 seconds (JVM running for 1.394)
